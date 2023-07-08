@@ -1,0 +1,11 @@
+﻿  bullet.cpp
+  camera.cpp
+  explosion.cpp
+  game.cpp
+  main.cpp
+  manager.cpp
+  player.cpp
+  result.cpp
+  title.cpp
+  Generating Code...
+  GMkadai1.vcxproj -> C:\Users\lachende\Desktop\授業\GM31\GMkadai2\x64\Debug\GMkadai1.exe
